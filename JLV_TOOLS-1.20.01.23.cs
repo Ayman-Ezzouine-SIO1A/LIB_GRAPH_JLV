@@ -2,6 +2,9 @@
 /*
  * OUTILS POUR COURS ALGO - VINOLA Jean louis Lycée de la CCI de Nimes
  * 
+ * VERSION 1.20.01.23
+ *   gestion format Format32bppRgb
+ * 
  * VERSION 1.20.01.16
  *   Grille_Vers_BMP : stocke un tableau 2Dim d'entiers en BMP32bits
  *   BMP_Vers_Grille: charge un BMP32bits ou BMP24bits dans un tableau 2Dim
@@ -17,7 +20,7 @@ using System.Drawing.Imaging;
  * 
  * ==> Aouter ce fichier dans un PRJ Console .Net Framework 
  * 
- * ==> ajouter la référence Syste.Drawing :
+ * ==> ajouter la référence System.Drawing :
  *       Cliquez bouton droit sur Référence dans la fenêtre du Projet
  *       Choisir "Ajouter une référence"
  *       Dans la liste, cochez "System.Drawing"
